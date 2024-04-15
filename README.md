@@ -49,8 +49,8 @@ Spring Boot The various examples used are based on the simplest and most practic
 - [dockercompose-springboot-mysql-nginx](https://github.com/ityouknow/spring-boot-examples/tree/master/dockercompose-springboot-mysql-nginx)：Spring Boot 3.0 Docker Compose + Spring Boot + Nginx + Mysql Use Cases
 
 
-> 如果大家想了解关于 Spring Boot 的其它方面应用，也可以以[issues](https://github.com/ityouknow/spring-boot-examples/issues)的形式反馈给我，我后续来完善。
+> If you want to know about other aspects of Spring Boot applications, you can also give me feedback in the form of [issues](https://github.com/ityouknow/spring-boot-examples/issues), and I will improve it later.
 
-关注公众号：纯洁的微笑，回复"666"进群交流
+Follow the public account: Pure Smile, reply "666" to join the group communication
 
 ![](http://www.ityouknow.com/assets/images/keeppuresmile_430.jpg)
